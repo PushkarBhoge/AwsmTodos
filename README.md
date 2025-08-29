@@ -29,6 +29,8 @@ A beautiful and functional todo list application featuring a modern glassmorphis
 No build process or installation required - just open and use!
 
 ## 📱 Screenshots
+<img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/5a0a193e-793f-4247-8803-18640e964a2b" />
+
 
 The app features a clean, modern interface with:
 - Animated emoji hero section
